@@ -1,0 +1,11 @@
+certificates
+node_modules
+/node_modules
+.idea
+.env
+credentials.json
+gmail_api.json
+note_backend.txt
+note_frontrnd.txt
+
+majaloc-firebase-adminsdk-fipuy-6ef4fefbb6.json
